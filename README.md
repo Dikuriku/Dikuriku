@@ -193,6 +193,20 @@
     />
   </a>
 </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://stackoverflow.com/users/21786888" target="blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+      alt="21786888"
+      height="30"
+      width="40"
+    />
+  </a>
+</p>
+
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/dikuriku">
@@ -202,7 +216,8 @@
       height="50"
       width="210"
       alt="https://www.buymeacoffee.com/dikuriku"
-  /></a>
+    />
+  </a>
 </p>
 <!-- /ICONS -->
 
