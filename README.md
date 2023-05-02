@@ -205,6 +205,15 @@
       width="40"
     />
   </a>
+  <a href="https://www.nexusmods.com/users/180434223" target="blank">
+    <img
+      align="center"
+      src="images/nexusmods.svg"
+      alt="180434223"
+      height="30"
+      width="40"
+    />
+  </a>
 </p>
 
 <h3 align="left">Support:</h3>
