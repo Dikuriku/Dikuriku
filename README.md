@@ -4,6 +4,7 @@
 <!-- /HEADER -->
 
 <!-- GENERAL_INFO -->
+
 - 🌱 I’m currently learning **front-end and game modding development**
 - 📫 How to reach me **dikuriku.dev@gmail.com**
 - ⚡ Fun fact **I like dogs**
@@ -214,24 +215,6 @@
       width="40"
     />
   </a>
-  <a href="https://twitter.com/dikurikudev" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="dikurikudev"
-      height="30"
-      width="40"
-    />
-  </a>
-  <a href="https://www.hackerrank.com/dikuriku_dev" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
-      alt="dikuriku_dev"
-      height="30"
-      width="40"
-    />
-  </a>
 </p>
 
 <h3 align="left">Support:</h3>
@@ -246,7 +229,34 @@
     />
   </a>
 </p>
+
+<br />
+<br />
+
+<h3 align="left">Other:</h3>
+<p>
+  <a
+    href="https://area51.stackexchange.com/proposals/127456/programming-language-design-and-implementation?referrer=NjI4YTdlZWNjOTk5YjBmODRlNjkwYjlhOTMyZTU0NDg1Mjk2MjIwOWQ5NzQ1OTFjZmE3NTk0ODY2YjYzNDg3MYHpFvveLlb2MMwVzxRsucGzz6IdWz1KfqDekNll9Ocq0"
+  >
+    <img
+      align="left"
+      src="https://area51.stackexchange.com/ads/proposal/127456.png"
+      width="300"
+      height="250"
+      alt="Stack Exchange Q&A site proposal: Programming Language Design and Implementation"
+    />
+  </a>
+</p>
 <!-- /ICONS -->
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
