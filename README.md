@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **front-end and game modding development, also CS stuff**
 - 📫 Reach me at **dikuriku.dev@gmail.com**
 - 💬 Ask me about anything **I am happy to help**
-- ⚡ Fun fact **I like dogs and games. It is hard to tell, isn't it?**
 <!-- /GENERAL_INFO -->
 
 <!-- INTRODUCTION -->
