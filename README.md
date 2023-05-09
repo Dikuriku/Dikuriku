@@ -42,6 +42,9 @@ I have some mods I want to do. And others that are half-baked in HDs somewhere t
   <a href="https://reactjs.org/">
     <img src="icons/reactjs.svg" alt="reactjs" width="40" height="40" />
   </a>
+  <a href="https://reactnative.dev/">
+    <img src="icons/reactnative.svg" alt="reactnative" width="40" height="40"/>
+  </a>
   <a href="https://www.typescriptlang.org/">
     <img src="icons/typescript.svg" alt="typescript" width="40" height="40" />
   </a>

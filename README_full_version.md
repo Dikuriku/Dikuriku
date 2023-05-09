@@ -78,6 +78,9 @@ If you have a mod idea for a game that I already have a mod, contact me, I might
   <a href="https://reactjs.org/">
     <img src="icons/reactjs.svg" alt="reactjs" width="40" height="40" />
   </a>
+  <a href="https://reactnative.dev/">
+    <img src="icons/reactnative.svg" alt="reactnative" width="40" height="40"/>
+  </a>
   <a href="https://redux.js.org">
     <img src="icons/reduxjs.svg" alt="reduxjs" width="40" height="40" />
   </a>
