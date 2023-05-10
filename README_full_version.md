@@ -54,6 +54,9 @@ If you have a mod idea for a game that I already have a mod, contact me, I might
   <a href="https://git-scm.com/">
     <img src="icons/git.svg" alt="git" width="40" height="40" />
   </a>
+  <a href="https://gulpjs.com">
+    <img src="icons/gulp.svg" alt="gulp" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="icons/html5.svg" alt="html5" width="40" height="40" />
   </a>
