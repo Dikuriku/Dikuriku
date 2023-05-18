@@ -76,19 +76,4 @@ I have some mods I want to do. And others that are half-baked in HDs somewhere t
     README (FULL VERSION)
   </a>
 </p>
-
-<h3 align="left">Other:</h3>
-<p align="left">
-  <a
-    href="https://area51.stackexchange.com/proposals/127456/programming-language-design-and-implementation?referrer=NjI4YTdlZWNjOTk5YjBmODRlNjkwYjlhOTMyZTU0NDg1Mjk2MjIwOWQ5NzQ1OTFjZmE3NTk0ODY2YjYzNDg3MYHpFvveLlb2MMwVzxRsucGzz6IdWz1KfqDekNll9Ocq0"
-  >
-    <img
-      align="left"
-      src="https://area51.stackexchange.com/ads/proposal/127456.png"
-      width="300"
-      height="250"
-      alt="Stack Exchange Q&A site proposal: Programming Language Design and Implementation"
-    />
-  </a>
-</p>
 <!-- /ICONS -->
