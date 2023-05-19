@@ -123,4 +123,9 @@ If you have a mod idea for a game that I already have a mod, contact me, I might
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="buymeacoffee" height="50" width="210" />
   </a>
 </p>
+
+<h3 align="left">Other:</h3>
+Some of my repositories are challenges, made for some company interview or course, and practice sessions, which I am probably following along some course and tutorial.
+
+The projects that I want to provide future support for can be found on [my list](https://github.com/stars/DikurikuDev/lists/my-projects).
 <!-- /ICONS -->
